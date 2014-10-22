@@ -1,0 +1,7 @@
+<Alloy>
+	<Window id="win" fullscreen="true" navbarHidden="true" class="container" orientationModes="[Ti.UI.LANDSCAPE_LEFT, Ti.UI.LANDSCAPE_RIGHT]">
+		<View id="sceneView" width="Ti.Platform.displayCaps.platformWidth" height="Ti.Platform.displayCaps.platformHeight" top="0" left="0" borderColor="black" borderWidth="0">
+			<TextField id="sceneText"></TextField>
+		</View>
+	</Window>
+</Alloy>

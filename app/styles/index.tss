@@ -1,0 +1,14 @@
+".container": {
+	backgroundColor:'black'
+},
+"#win": {
+	top: 0,
+	height: '100%',
+	width: '100%'
+},
+"#sceneView": {
+	backgroundColor:'black'
+}
+"#sceneText": {
+	color:'white'
+}
