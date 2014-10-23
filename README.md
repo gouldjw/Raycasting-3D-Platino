@@ -1,2 +1,2 @@
-Pool-Of-Radiance
+Raycasting 3D Platino Test
 ================
