@@ -1,8 +1,0 @@
-"/Users/johngould/Documents/Titanium_Studio_Workspace/Raycasting 3D Test/build/android/gen/android/support/v7/appcompat/R.java"
-"/Users/johngould/Documents/Titanium_Studio_Workspace/Raycasting 3D Test/build/android/gen/com/blackgategames/raycasting/ApplicationStylesheet.java"
-"/Users/johngould/Documents/Titanium_Studio_Workspace/Raycasting 3D Test/build/android/gen/com/blackgategames/raycasting/AssetCryptImpl.java"
-"/Users/johngould/Documents/Titanium_Studio_Workspace/Raycasting 3D Test/build/android/gen/com/blackgategames/raycasting/R.java"
-"/Users/johngould/Documents/Titanium_Studio_Workspace/Raycasting 3D Test/build/android/gen/com/blackgategames/raycasting/Raycasting3dTestActivity.java"
-"/Users/johngould/Documents/Titanium_Studio_Workspace/Raycasting 3D Test/build/android/gen/com/blackgategames/raycasting/Raycasting3dTestAppInfo.java"
-"/Users/johngould/Documents/Titanium_Studio_Workspace/Raycasting 3D Test/build/android/gen/com/blackgategames/raycasting/Raycasting3dTestApplication.java"
-"/Users/johngould/Documents/Titanium_Studio_Workspace/Raycasting 3D Test/build/android/gen/ti/modules/titanium/ui/R.java"

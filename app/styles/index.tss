@@ -1,14 +1,8 @@
 ".container": {
 	backgroundColor:'black'
-},
+}
+
 "#win": {
-	top: 0,
-	height: '100%',
-	width: '100%'
-},
-"#sceneView": {
-	backgroundColor:'black'
+	orientationModes: "[Ti.UI.LANDSCAPE_LEFT, Ti.UI.LANDSCAPE_RIGHT]"
 }
-"#sceneText": {
-	color:'white'
-}
+

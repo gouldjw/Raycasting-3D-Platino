@@ -1,0 +1,4 @@
+/build
+*.ds
+.DS_store
+/Resources

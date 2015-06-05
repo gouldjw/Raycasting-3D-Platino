@@ -9,4 +9,6 @@
 // object. For example:
 //
 
-Alloy.Globals.Platino = require('co.lanica.platino');
+Alloy.Globals.Platino = require('io.platino'); // Core engine 
+Alloy.Globals.wall_resolution = 128; // Set to powers of 2 up to 1024 to sharpen the imagery at performance costs
+Alloy.Globals.circle = Math.PI * 2;
